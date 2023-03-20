@@ -1,4 +1,4 @@
-https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif
+<iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
 
 # 💫 About Me:
 🔭Hi, I'm Soke a Software Engineer 👨‍💻🎧<br> & a developer who is passionate about <br>Web & Mobile Development, Blockchain Development, <br>Solidity and open source.
