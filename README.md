@@ -1,5 +1,5 @@
 
-🔭Hi, I'm Soke a Software Engineer 👨‍💻🎧<br> & a developer who is passionate about <br>Web & Mobile Development, Blockchain Development, <br>Solidity and open source.
+🔭Hi, I'm Soke a Software Engineer 👨‍💻🎧<br> & a developer who is passionate about <br>Web & Mobile Development, Blockchain Development, <br>Solidity and open source. I have private repo
 
 
 ## 🌐 Socials:
